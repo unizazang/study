@@ -20,3 +20,7 @@ dist
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Other projects
+4thPj_profile_page/
+shop/
